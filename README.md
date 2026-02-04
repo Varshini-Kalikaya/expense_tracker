@@ -1,7 +1,7 @@
 # 💰 Expense Tracker
 
 ## 📌 Project Overview
-The Expense Tracker is a simple front-end web application developed using HTML, CSS, and JavaScript. It helps users record, track, and manage their daily expenses efficiently. The application runs entirely in the browser and stores data locally, making it lightweight and easy to use without any backend setup.
+The Expense Tracker is a simple front-end web application developed using HTML, CSS, and JavaScript(es6),reactjs. It helps users record, track, and manage their daily expenses efficiently. The application runs entirely in the browser and stores data locally, making it lightweight and easy to use without any backend setup.
 
 ---
 
@@ -100,4 +100,4 @@ Email: kalikayavarshini@gmail.com
 
 GitHub: https://github.com/varshini-kalikaya
 
-© 2026 Your Name. All rights reserved.
+© 2026 kalikayavarshini. All rights reserved.
