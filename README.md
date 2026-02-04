@@ -85,7 +85,7 @@ Live Demo: expense-tracker-one-alpha-36.vercel.app
 
 ⚖️ Legal & Ownership
 
-This project is owned and maintained by Your Name.
+This project is owned and maintained by kalikaya varshini.
 Licensed under the MIT License.
 
 You are free to use, modify, and distribute this project with proper attribution.
